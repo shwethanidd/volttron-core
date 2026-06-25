@@ -45,6 +45,10 @@ pip install volttron
 
 Full VOLTTRON documentation available at [VOLTTRON Readthedocs](https://volttron.readthedocs.io)
 
+## Community Resources
+
+Visit [volttron.org](https://volttron.org) for user stories, deployment case studies, the office hours archive, recorded video presentations, and announcements from the broader VOLTTRON community.
+
 ## Contributing to VOLTTRON
 
 Please see the [contributing.md](CONTRIBUTING.md) document before contributing to this repository.
